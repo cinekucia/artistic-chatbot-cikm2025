@@ -122,7 +122,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/cinekucia/Artistic-Chatbot.git
+    git clone https://github.com/cinekucia/artistic-chatbot-cikm2025.git
     cd Artistic-Chatbot
     ```
 
